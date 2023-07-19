@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there, I am Subramanya Keshavamurthy 👋</h1>
 
 ###
 
-<p align="left">My name is Subramanya Keshavamurthy and I'm a Backend Developer with 3+ years of experience in building highly scalable web applications. I am currently pursuing a Master's degree in Computer Science, with a focus on Software Innovation at Oregon State University, Corvallis.</p>
+<p align="left">I am a passionate Backend Developer with over 3 years of experience in crafting highly scalable web applications. Right now, I am pursuing a Master's degree in Computer Science with a specialization in Software Innovation at Oregon State University, Corvallis.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✔︎ In depth knowledge in Data Structures and Algorithms<br>✔︎ Highly passionate about system design<br>✔︎ 3+ years experience in building highly scalable web applications</p>
+<p align="left">✔︎ Backend Developer with 3+ years of experience in building highly scalable web applications.<br>✔︎ In-depth knowledge of Data Structures and Algorithms.<br>✔︎ Highly passionate about system design and creating efficient solutions.</p>
 
 ###
 
