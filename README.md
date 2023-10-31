@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✔︎ Backend Developer with 3+ years of experience in building highly scalable web applications.<br>✔︎ In-depth knowledge of Data Structures and Algorithms.<br>✔︎ Highly passionate about system design and creating efficient solutions.</p>
+<p align="left">✔︎ Software Engineer with 3+ years of experience in building highly scalable applications.<br>✔︎ In-depth knowledge of Data Structures and Algorithms.<br>✔︎ Highly passionate about system design and creating efficient solutions.</p>
 
 ###
 
