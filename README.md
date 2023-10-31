@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a passionate Backend Developer with over 3 years of experience in crafting highly scalable web applications. Right now, I am pursuing a Master's degree in Computer Science with a specialization in Software Innovation at Oregon State University, Corvallis.</p>
+<p align="left">I am a passionate Software Developer with over 3 years of experience in crafting highly scalable web applications. Right now, I am pursuing a Master's degree in Computer Science with a specialization in Software Innovation at Oregon State University, Corvallis.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✔︎ Software Engineer with 3+ years of experience in building highly scalable applications.<br>✔︎ In-depth knowledge of Data Structures and Algorithms.<br>✔︎ Highly passionate about system design and creating efficient solutions.</p>
+<p align="left">✔︎ Software Developer with 3+ years of experience in building highly scalable applications.<br>✔︎ In-depth knowledge of Data Structures and Algorithms.<br>✔︎ Highly passionate about system design and creating efficient solutions.</p>
 
 ###
 
