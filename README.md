@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a passionate Software Developer with over 3 years of experience in crafting highly scalable web applications. Right now, I am pursuing a Master's degree in Computer Science with a specialization in Software Innovation at Oregon State University, Corvallis.</p>
+<p align="left">I am a Software Engineer with over 3 years of experience in building highly scalable applications. Right now, I am working as a Graduate Teaching Assistant and pursuing a Master's degree in Computer Science at Oregon State University, Corvallis.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✔︎ Software Developer with 3+ years of experience in building highly scalable applications.<br>✔︎ In-depth knowledge of Data Structures and Algorithms.<br>✔︎ Highly passionate about system design and creating efficient solutions.</p>
+<div align="left"><p>✔︎ A super passionate guy who loves computers and writing code (and challenges of course). The more challenging the problem, the better!</p> <p>✔︎ Armed with an in-depth knowledge about Data Structures and Algorithms. Thanks Leetcode :) (Not crying)</p> <p>✔︎ Thoroughly enjoy exploring and dissecting the architecture/design of different software products and attempting to build them from the ground up.</p> <p>✔︎ Currently working on some really cool projects:<ul>1. FunctionScout: An innovative API dependency monitoring tool. It analyzes and visualizes dependencies at the function level, providing valuable insights into API structures.</ul> <ul>2. DocuCompass: An on-demand knowledge navigator, that instantly understands questions about any team's document and delivers the most relevant answer and a direct link to the source.</ul> <ul>3. AI-powered Travel Application (Stealth Project): Leading the design and development of an AI-powered travel application that helps users plan their trips seamlessly. Users can discover unique destinations, find budget-friendly accommodations, and more - all in one convenient platform</ul> </p></div>
 
 ###
 
