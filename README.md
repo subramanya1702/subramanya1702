@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left"><p>✔︎ Super passionate about computers, writing code and solving problems. The more challenging the problem, the better.</p> <p>✔︎ Armed with an in-depth knowledge about Data Structures and Algorithms (Thanks to Leetcode)</p> <p>✔︎ Thoroughly enjoy exploring and dissecting the architecture/design of different software products and attempting to build them from the ground up.</p> <p>✔︎ Currently working on these really cool projects:<ul>1. FunctionScout: An innovative API dependency monitoring tool. It analyzes and visualizes dependencies at the function level, providing valuable insights into API structures.</ul> <ul>2. DocuCompass: An on-demand knowledge navigator, that instantly understands questions about any team's document and delivers the most relevant answer and a direct link to the source.</ul></p></div>
+<div align="left"><p>✔︎ Super passionate about computers, writing code and solving problems. The more challenging the problem, the better.</p> <p>✔︎ Armed with an in-depth knowledge about Data Structures and Algorithms.</p> <p>✔︎ Thoroughly enjoy exploring and dissecting the architecture/design of different software products and attempting to build them from the ground up.</p> <p>✔︎ Currently working on these really cool projects:<ul>1. FunctionScout: An innovative API dependency monitoring tool. It analyzes and visualizes dependencies at the function level, providing valuable insights into API structures.</ul> <ul>2. DocuCompass: An on-demand knowledge navigator, that instantly understands questions about any team's document and delivers the most relevant answer and a direct link to the source.</ul></p></div>
 
 ###
 
