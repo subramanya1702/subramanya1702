@@ -11,7 +11,7 @@
 <div align="left">
   <p>✔︎ Passionate about computers, writing code, and solving complex problems. The more challenging the problem, the better.</p>
   <p>✔︎ Love exploring software architecture and building robust, scalable solutions from scratch.</p>
-  <p>✔︎ Have a good grasp of Data Structures, Algorithms, and Software Design principles.</p>
+  <p>✔︎ A good grasp of Data Structures, Algorithms, and Software Design principles.</p>
   <p>✔︎ Currently working on these cool projects:</p>
   <ul>
     <li><b>FunctionScout</b>: An API dependency monitoring tool that analyzes and visualizes function-level dependencies, alerting developers to function signature mismatches caused by API updates.</li>
