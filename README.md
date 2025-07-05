@@ -1,6 +1,6 @@
 ###
 
-<p align="left">A Software Engineer with over 3.5 years of experience in building scalable applications and infrastructure.</p>
+<p align="left">A Software Engineer with 4 years of experience in building scalable applications and infrastructure.</p>
 
 ###
 
@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="12" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
